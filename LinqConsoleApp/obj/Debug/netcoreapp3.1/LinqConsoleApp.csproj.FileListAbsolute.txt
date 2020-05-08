@@ -1,0 +1,12 @@
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.deps.json
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.json
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.runtimeconfig.dev.json
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/bin/Debug/netcoreapp3.1/LinqConsoleApp.pdb
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csprojAssemblyReference.cache
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.csproj.CoreCompileInputs.cache
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfoInputs.cache
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.AssemblyInfo.cs
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.dll
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.pdb
+/Users/vsevoloddoroshenko/Desktop/apbd8/LinqConsoleApp/LinqConsoleApp/obj/Debug/netcoreapp3.1/LinqConsoleApp.genruntimeconfig.cache
